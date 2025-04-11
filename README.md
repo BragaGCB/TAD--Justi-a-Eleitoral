@@ -1,7 +1,6 @@
 # Trabalho de Estrutura de Dados – TAD Justiça Eleitoral
 
-**Aluno:** Guilherme Cunha Braga  
-**Matrícula:** UC24201409  
+**Aluno:** Guilherme Cunha Braga   
 **Disciplina:** Estrutura de Dados  
 **Professor:** Marcelo  
 **Data de entrega:** Abril de 2025
